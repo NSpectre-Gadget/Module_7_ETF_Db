@@ -15,8 +15,8 @@ It is part of the Jupyter ecosystem of open-source projects. Voilà turns Jupyte
 
 
 ## Installation Guide
-
-![ETF Website for Module 7](http://localhost:8866/)
+The link provides a view of applying voila to the project notebook.
+[ETF Website for Module 7](https://www.dropbox.com/s/ajjx1uoqjzsc2du/MODULE_7_SCREENSHOTS.docx?dl=0)
 
 
 
